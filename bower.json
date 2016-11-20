@@ -1,0 +1,17 @@
+{
+  "name": "sokobanjs",
+  "description": "A Sokoban game written in javascript",
+  "main": "index.js",
+  "authors": [
+    "Jose Victor"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vctr90/sokobanJs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
